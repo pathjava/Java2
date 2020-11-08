@@ -373,6 +373,6 @@ public class AVLTreeAndTreeMapTest {
 
     public static void main(String[] args) {
         AVLTreeAndTreeMapTest test = new AVLTreeAndTreeMapTest();
-        test.testing("C:\\Intellij Idea\\programming\\HelloWorld\\src\\ru\\progwards\\java2\\lessons\\trees\\wiki.train.tokens");
+        test.testing("src\\ru\\progwards\\java2\\lessons\\trees\\wiki.train.tokens");
     }
 }
